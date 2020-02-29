@@ -1,5 +1,6 @@
 # Level 1 → Level 2 #
 First of all connect to the shell
+
 Command: _ssh bandit1@bandit.labs.overthewire.org -p 2220_ </br>
 Password: _boJ9jbbUNNfktd78OOpsqOltutMc3MY1_</br>
 
