@@ -9,5 +9,5 @@ The password for the next level is stored in a file called **readme** located in
 
 <h3>Solution</h3>
 Since we know that the file __readme__ contains the password,we can use the `cat` command to view the contents of the file
-![cat command](https://github.com/Bhavartha/OverTheWire-Bandit/blob/master/images/0-1_1.png)
+![cat command](https://github.com/Bhavartha/OverTheWire-Bandit/blob/master/images/0-1_1.png?raw=true)
 
