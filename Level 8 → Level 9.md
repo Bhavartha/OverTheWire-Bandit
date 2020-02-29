@@ -1,4 +1,4 @@
-# Level 7 → Level 8 #
+# Level 8 → Level 9 #
 First of all connect to the shell using
 
 Command: _ssh bandit8@bandit.labs.overthewire.org -p 2220_</br>
