@@ -1,4 +1,4 @@
-<h1>Level 0 → Level 1<h1><hr>
+<h1>Level 0 → Level 1</h1><hr>
 
 First of all connect to the shell<br>
 Command: _ssh bandit0@bandit.labs.overthewire.org -p 2220_<br>
