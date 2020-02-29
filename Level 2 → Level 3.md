@@ -8,7 +8,7 @@ Password: _CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9_<br>
 The password for the next level is stored in a file called `spaces in this filename` located in the home directory
 
 ### Solution ###
-We can use `cat` command with auto-completions using tabs or escape <spaces> using backslash 
+We can use `cat` command with auto-completions using tabs or escape spaces using backslash 
 
 _cat spaces\ in\ this\ filename_</br></br>
 
