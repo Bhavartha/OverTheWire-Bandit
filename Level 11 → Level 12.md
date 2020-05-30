@@ -1,7 +1,7 @@
 # Level 11 → Level 12 #
 First of all connect to the shell using
 
-Command: _ssh bandit10@bandit.labs.overthewire.org -p 2220_</br>
+Command: _ssh bandit11@bandit.labs.overthewire.org -p 2220_</br>
 Password: _truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk_</br>
 
 ### Level Goal ###
